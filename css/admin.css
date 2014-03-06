@@ -1,0 +1,43 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	color: #555;
+	font: normal 10pt Arial,Helvetica,sans-serif;
+	background: #EFEFEF;
+}
+.container{
+	width: 100% !important;
+}
+.navbar-fixed-top{
+	position: static !important;
+}
+.nav-header{
+	color: #333 !important;
+}
+.nav-list > .active > a, .nav-list > .active > a:hover, .nav-list > .active > a:focus {
+	background: #c7c7c7;
+}
+.nav-list > li > a {
+	padding: 5px 15px !important;
+}
+.grid-view {
+	padding-top: 5px !important;
+}
+.btngroup .btn{
+	margin-right: 5px;
+}
+.btngroup{
+	text-align: right;
+}
+.odd{
+	background: #f6f6f6 !important;
+}
+.admin-page-navigation .selected a{
+	color: #fff;
+	background-color: #428bca;
+	border-color: #428bca;
+}
+.admin-page-navigation{
+	text-align: center;
+}
